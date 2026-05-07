@@ -29,6 +29,14 @@ FuturOne agents serve enterprise teams across:
 - **Legal & compliance** — contract review, policy gap analysis, regulatory due diligence
 - **Customer operations** — case triage, renewal risk assessment, handoff briefs
 
+## Open Resources
+
+| Resource | Description |
+|---|---|
+| [Awesome Enterprise AI Agents](https://github.com/FuturOneAI/awesome-enterprise-ai-agents) | Curated list of AI agent platforms, frameworks, and tools |
+| [Enterprise AI Agent Playbook](https://github.com/FuturOneAI/enterprise-ai-agent-playbook) | Production deployment guide: architecture, reliability, security, cost |
+| [AI Agent Evaluation Framework](https://github.com/FuturOneAI/ai-agent-evaluation-framework) | Metrics, methods, and benchmarks for evaluating enterprise AI agents |
+
 ## Get Started
 
 - 🌐 [futurmix.one](https://futurmix.one) — Product page
